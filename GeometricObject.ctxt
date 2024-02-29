@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GeometricObject
+comment1.params=
+comment1.target=GeometricObject()
+comment2.params=color\ filled
+comment2.target=GeometricObject(java.lang.String,\ boolean)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=double\ getArea()
+comment5.params=
+comment5.target=double\ getPerimeter()
+numComments=6
